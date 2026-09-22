@@ -1,37 +1,36 @@
 # Biruk Endrias
 
-Full-stack developer in Addis Ababa. I ship Laravel, Vue, Flutter, and Node apps for production, and I still write a fair amount of PHP tooling for myself.
+Senior full-stack developer in Addis Ababa. Lead developer at Meleket Technology PLC. Six years with Laravel, Vue, Flutter, and Node.
 
-Lead developer at [Meleket Technology](https://melekettech.com) since 2024. Before that, freelance work since 2020: client systems, API integrations (Chapa and others), and a few open-source experiments.
+Building small public tools under IAMBIRUK. Open to remote roles and contract work.
 
-I studied biotechnology for three years at AASTU (2019–2021), then moved fully into software through real projects rather than a CS degree.
+## Building in public
 
+| Project | What it is |
+| --- | --- |
+| [deslop](https://github.com/biruktk/deslop) | Strip AI tells from text in the browser |
+| [applykit](https://github.com/biruktk/applykit) | Job post in, tailored outreach draft out |
+| [ethcal](https://github.com/biruktk/ethcal) | Gregorian and Ethiopian date conversion |
+| [chapa-kit](https://github.com/biruktk/chapa-kit) | Laravel Chapa: initialize, verify, webhook |
+| [Gigavel](https://github.com/biruktk/Gigavel) | Small Laravel-style PHP MVC |
+| [envscan](https://github.com/biruktk/envscan) | Scan for secrets and .env leaks before push |
+
+## Production
+
+| Project | Link |
+| --- | --- |
+| Meleket (lead) | [melekettech.com](https://melekettech.com) |
+| Cyaxiom LMS | [cyaxiom.com](https://cyaxiom.com) |
+
+## Stack
+
+PHP and Laravel, Vue and Nuxt, React and Next.js, Flutter, Node, Python, MySQL/MariaDB/PostgreSQL, Redis, Docker, Nginx, Chapa.
+
+## Contact
+
+- Portfolio: [iambiruk.vercel.app](https://iambiruk.vercel.app)
 - Email: [hello@iambiruk.com](mailto:hello@iambiruk.com)
-- Telegram: [@BirukEndrias](https://t.me/BirukEndrias)
-- Phone: +251 986 552 099
-
-## Work worth looking at
-
-**Production**
-
-- [Meleket](https://melekettech.com) — national directory app (Laravel + Flutter, payments, Redis). Play Store: `com.meleket.melekete`
-- ERP system (private) — multi-tenant inventory, ledgers, invoices, barcode flows for commercial operations in Addis Ababa
-- [Cyaxiom](https://cyaxiom.com) — MERN learning platform
-
-**Public tools**
-
-- [ethcal](https://github.com/biruktk/ethcal) — Gregorian and Ethiopian dates
-- [deslop](https://github.com/biruktk/deslop) — paste stiff prose, get a shorter draft, in the browser
-- [invoicelite-et](https://github.com/biruktk/invoicelite-et) — ETB invoice and proforma, print to PDF
-- [chapa-kit](https://github.com/biruktk/chapa-kit) — Laravel reference for Chapa checkout and webhooks
-- [applykit](https://github.com/biruktk/applykit) — job post plus a CV blurb, outreach draft out
-
-Older demos: [Gigavel](https://github.com/biruktk/Gigavel), [alive](https://github.com/biruktk/alive), [laragigs](https://github.com/biruktk/laragigs).
-
-## Stack I use most
-
-PHP / Laravel, JavaScript (Vue, React), TypeScript, Python, Dart / Flutter, MySQL / MariaDB / PostgreSQL, Redis, Docker, Nginx, Linux.
-
-## Elsewhere
-
-Older code also lives under archived experiments on this account. Prefer the repos linked above if you are reviewing my work.
+- Telegram: [t.me/BirukEndrias](https://t.me/BirukEndrias)
+- X: [x.com/birukweb](https://x.com/birukweb)
+- LinkedIn: [biruk-endrias-115277230](https://www.linkedin.com/in/biruk-endrias-115277230)
+- GitHub: [biruktk](https://github.com/biruktk)
