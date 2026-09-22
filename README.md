@@ -1,54 +1,28 @@
-# Hi, I'm Biruk Endrias 👋
-### Full-Stack Engineer & AI Systems Architect | Co-Founder @ Meleket Tech
+# Biruk Endrias
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-biruk--portfolio.vercel.app-F59E0B?style=for-the-badge&logo=vercel&logoColor=white)](https://biruk-portfolio-lyart.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-@BirukEndrias-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BirukEndrias)
-[![Email](https://img.shields.io/badge/Email-birukindrias@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:birukindrias@gmail.com)
+Senior full-stack developer in Addis Ababa. Lead developer at Meleket Technology PLC. Six years shipping web and mobile systems with Laravel, Vue, Flutter, and Node.
 
----
+Open to remote roles and contract work.
 
-## ⚡ Executive Summary
-- 📍 Based in **Addis Ababa, Ethiopia** (Available for global remote engineering contracts & full-time roles).
-- 🚀 Programming since **Grade 8 with Python**; trained with **2 years in Biotechnology at AASTU** bringing scientific rigor and systems-level thinking to software architecture.
-- 🛠️ Builder of sovereign, bare-metal software under real-world constraints: shipped multi-tenant enterprise ERPs, co-founded B2B SaaS with **20+ paid enterprise clients**, and architected multi-node autonomous AI agents with local offline SLM fallbacks.
+## Selected work
 
----
+| Project | What it is | Link |
+| --- | --- | --- |
+| Meleket | National directory for Ethiopia: Flutter client, Laravel API, Chapa payments, Redis caching | [melekettech.com](https://melekettech.com) |
+| Gigavel | Small Laravel-style PHP MVC with HTMX and Alpine.js | [github.com/birukindrias/Gigavel](https://github.com/birukindrias/Gigavel) |
+| Alive | Real-time chat in PHP | [livechat.iambiruk.com](https://livechat.iambiruk.com) |
+| Laragigs | Job board built with Laravel | [laragigs.iambiruk.com](https://laragigs.iambiruk.com) |
+| Cyaxiom | Learning platform (MERN) | [cyaxiom.com](https://cyaxiom.com) |
+| Tracker | Daily goals and calendar reports (Next.js) | [github.com/birukindrias/Tracker](https://github.com/birukindrias/Tracker) |
 
-## 🚀 Shipped Production Systems & Ventures
+## Stack
 
-### 1. [Yosis Warehouse Management System (WMS)](https://wms.nilegms.com)
-* **Stack:** Laravel 11 · MySQL · Redis · Docker · Tailwind CSS
-* **Overview:** End-to-end industrial multi-tenant warehouse ERP. Manages multi-branch inventory, real-time ledger balancing, automated proforma invoices, barcode scanning, and worker shifts for active commercial enterprises in Addis Ababa.
-* **Impact:** 100% operational uptime, sub-100ms report generation.
+PHP and Laravel, Vue and Nuxt, React and Next.js, Flutter, Node, Python, MySQL/MariaDB/PostgreSQL, Redis, Docker, Nginx.
 
-### 2. [Meleket Tech & Sanka Platform](https://sanka.melekttech.com)
-* **Stack:** Laravel Filament · Flutter Mobile · Chapa / Telebirr APIs · FCM
-* **Overview:** Co-founder (50% equity). Scaled Sanka to **20+ paying B2B customers**. Integrated local payment gateways (Chapa, Telebirr), phone OTP verification, and QR-code event check-in systems.
+## Contact
 
-### 3. [DARE (Decentralized Autonomous Resilience Engine)](https://github.com/biruktk)
-* **Stack:** Python · Ollama / Gemma 2 (2B) · Android ADB · Reverse SSH · Gemini Flash
-* **Overview:** Sovereign 24/7 personal operating agent spanning cloud VPS, local Linux workstation, and physical Android phone. Operates with cloud model cascades and seamless offline fallback to local SLMs with credential shielding.
-
-### 4. Tri-Lingual Video Automation Engine
-* **Stack:** Python · FFmpeg · Edge-TTS · Gemini API
-* **Overview:** Programmatic vertical video engine generating ready-to-post high-retention content in Amharic, English, and Spanish with 3-layer composition and kinetic subtitle animation.
-
----
-
-## 🛠️ Technical Competencies
-
-```text
-Languages:     Python, PHP (8.3+), Dart, JavaScript, TypeScript, SQL, Bash
-Frameworks:    Laravel 11, Filament, Flutter / GetX, FastAPI, Vue.js, Tailwind CSS, Alpine.js
-AI & Agents:   Multi-Node Orchestration, Local SLMs (Ollama/Gemma 2), Gemini Flash, MCP, ADB Bridges
-Infra & Cloud: Linux Bare-Metal, VPS Systemd Daemons, Docker, Reverse SSH, PostgreSQL, MySQL
-Payment Rails: Chapa Gateway, Telebirr API, Stripe / Webhooks
-```
-
----
-
-## 📬 Connect With Me
-* 🌐 **Live Portfolio:** [biruk-portfolio-lyart.vercel.app](https://biruk-portfolio-lyart.vercel.app)
-* 💬 **Telegram:** [@BirukEndrias](https://t.me/BirukEndrias)
-* 📱 **WhatsApp / Phone:** `+251 986 552 099`
-* ✉️ **Direct Email:** `birukindrias@gmail.com`
+- Portfolio: [iambiruk.vercel.app](https://iambiruk.vercel.app)
+- Email: [hello@iambiruk.com](mailto:hello@iambiruk.com)
+- Telegram: [t.me/BirukEndrias](https://t.me/BirukEndrias)
+- LinkedIn: [biruk-endrias-115277230](https://www.linkedin.com/in/biruk-endrias-115277230)
+- GitHub: [birukindrias](https://github.com/birukindrias) · [biruktk](https://github.com/biruktk)
