@@ -8,12 +8,12 @@ Building small public tools under IAMBIRUK. Open to remote roles and contract wo
 
 | Project | What it is |
 | --- | --- |
-| [deslop](https://github.com/biruktk/deslop) | Strip AI tells from text in the browser |
-| [applykit](https://github.com/biruktk/applykit) | Job post in, tailored outreach draft out |
-| [ethcal](https://github.com/biruktk/ethcal) | Gregorian and Ethiopian date conversion |
-| [chapa-kit](https://github.com/biruktk/chapa-kit) | Laravel Chapa: initialize, verify, webhook |
-| [Gigavel](https://github.com/biruktk/Gigavel) | Small Laravel-style PHP MVC |
-| [envscan](https://github.com/biruktk/envscan) | Scan for secrets and .env leaks before push |
+| [deslop](https://github.com/birukendrias/deslop) | Strip AI tells from text in the browser |
+| [applykit](https://github.com/birukendrias/applykit) | Job post in, tailored outreach draft out |
+| [ethcal](https://github.com/birukendrias/ethcal) | Gregorian and Ethiopian date conversion |
+| [chapa-kit](https://github.com/birukendrias/chapa-kit) | Laravel Chapa: initialize, verify, webhook |
+| [Gigavel](https://github.com/birukendrias/Gigavel) | Small Laravel-style PHP MVC |
+| [envscan](https://github.com/birukendrias/envscan) | Scan for secrets and .env leaks before push |
 
 ## Production
 
@@ -33,4 +33,4 @@ PHP and Laravel, Vue and Nuxt, React and Next.js, Flutter, Node, Python, MySQL/M
 - Telegram: [t.me/BirukEndrias](https://t.me/BirukEndrias)
 - X: [x.com/birukweb](https://x.com/birukweb)
 - LinkedIn: [biruk-endrias-115277230](https://www.linkedin.com/in/biruk-endrias-115277230)
-- GitHub: [biruktk](https://github.com/biruktk)
+- GitHub: [birukendrias](https://github.com/birukendrias)
