@@ -10,8 +10,8 @@ Open to remote roles and contract work.
 | --- | --- | --- |
 | Meleket | National directory for Ethiopia: Flutter client, Laravel API, Chapa payments, Redis caching | [melekettech.com](https://melekettech.com) |
 | Gigavel | Small Laravel-style PHP MVC with HTMX and Alpine.js | [github.com/biruktk/Gigavel](https://github.com/biruktk/Gigavel) |
-| Alive | Real-time chat in PHP | [livechat.iambiruk.com](https://livechat.iambiruk.com) |
-| Laragigs | Job board built with Laravel | [laragigs.iambiruk.com](https://laragigs.iambiruk.com) |
+| Alive | Real-time chat in PHP | [livechat.iambiruk.com](https://livechat.iambiruk.com) · [repo](https://github.com/biruktk/alive) |
+| Laragigs | Job board built with Laravel | [laragigs.iambiruk.com](https://laragigs.iambiruk.com) · [repo](https://github.com/biruktk/laragigs) |
 | Cyaxiom | Learning platform (MERN) | [cyaxiom.com](https://cyaxiom.com) |
 | Tracker | Daily goals and calendar reports (Next.js) | [github.com/biruktk/Tracker](https://github.com/biruktk/Tracker) |
 
