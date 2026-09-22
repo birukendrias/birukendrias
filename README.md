@@ -1,28 +1,37 @@
 # Biruk Endrias
 
-Senior full-stack developer in Addis Ababa. Lead developer at Meleket Technology PLC. Six years shipping web and mobile systems with Laravel, Vue, Flutter, and Node.
+Full-stack developer in Addis Ababa. I ship Laravel, Vue, Flutter, and Node apps for production, and I still write a fair amount of PHP tooling for myself.
 
-Open to remote roles and contract work.
+Lead developer at [Meleket Technology](https://melekettech.com) since 2024. Before that, freelance work since 2020: client systems, API integrations (Chapa and others), and a few open-source experiments.
 
-## Selected work
+I studied biotechnology for three years at AASTU (2019–2021), then moved fully into software through real projects rather than a CS degree.
 
-| Project | What it is | Link |
-| --- | --- | --- |
-| Meleket | National directory for Ethiopia: Flutter client, Laravel API, Chapa payments, Redis caching | [melekettech.com](https://melekettech.com) |
-| Gigavel | Small Laravel-style PHP MVC with HTMX and Alpine.js | [github.com/biruktk/Gigavel](https://github.com/biruktk/Gigavel) |
-| Alive | Real-time chat in PHP | [livechat.iambiruk.com](https://livechat.iambiruk.com) · [repo](https://github.com/biruktk/alive) |
-| Laragigs | Job board built with Laravel | [laragigs.iambiruk.com](https://laragigs.iambiruk.com) · [repo](https://github.com/biruktk/laragigs) |
-| Cyaxiom | Learning platform (MERN) | [cyaxiom.com](https://cyaxiom.com) |
-| Tracker | Daily goals and calendar reports (Next.js) | [github.com/biruktk/Tracker](https://github.com/biruktk/Tracker) |
-
-## Stack
-
-PHP and Laravel, Vue and Nuxt, React and Next.js, Flutter, Node, Python, MySQL/MariaDB/PostgreSQL, Redis, Docker, Nginx.
-
-## Contact
-
-- Portfolio: [iambiruk.vercel.app](https://iambiruk.vercel.app)
+- Site: [iambiruk.com](https://iambiruk.com)
 - Email: [hello@iambiruk.com](mailto:hello@iambiruk.com)
-- Telegram: [t.me/BirukEndrias](https://t.me/BirukEndrias)
-- LinkedIn: [biruk-endrias-115277230](https://www.linkedin.com/in/biruk-endrias-115277230)
-- GitHub: [biruktk](https://github.com/biruktk) · [birukindrias](https://github.com/birukindrias)
+- Telegram: [@BirukEndrias](https://t.me/BirukEndrias)
+- Phone: +251 986 552 099
+
+## Work worth looking at
+
+**Production**
+
+- [Meleket](https://melekettech.com) — national directory app (Laravel + Flutter, payments, Redis). Play Store: `com.meleket.melekete`
+- ERP system (private) — multi-tenant inventory, ledgers, invoices, barcode flows for commercial operations in Addis Ababa
+- [Cyaxiom](https://cyaxiom.com) — MERN learning platform
+
+**Open source / demos**
+
+- [Gigavel](https://github.com/biruktk/Gigavel) — small Laravel-style PHP MVC with HTMX and Alpine
+- [alive](https://github.com/biruktk/alive) — real-time chat ([live demo](https://livechat.iambiruk.com))
+- [laragigs](https://github.com/biruktk/laragigs) — Laravel job board
+- [Tracker](https://github.com/biruktk/Tracker) — Next.js daily goals and calendar reports
+- [language-translation-api-with-golang](https://github.com/biruktk/language-translation-api-with-golang) — translation HTTP API in Go
+- [portfolio](https://github.com/biruktk/portfolio) — site source for iambiruk.com
+
+## Stack I use most
+
+PHP / Laravel, JavaScript (Vue, React), TypeScript, Python, Dart / Flutter, MySQL / MariaDB / PostgreSQL, Redis, Docker, Nginx, Linux.
+
+## Elsewhere
+
+Older code also lives under archived experiments on this account. Prefer the repos linked above if you are reviewing my work.
