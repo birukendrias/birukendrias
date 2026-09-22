@@ -19,14 +19,15 @@ I studied biotechnology for three years at AASTU (2019–2021), then moved fully
 - ERP system (private) — multi-tenant inventory, ledgers, invoices, barcode flows for commercial operations in Addis Ababa
 - [Cyaxiom](https://cyaxiom.com) — MERN learning platform
 
-**Open source / demos**
+**Public tools**
 
-- [Gigavel](https://github.com/biruktk/Gigavel) — small Laravel-style PHP MVC with HTMX and Alpine
-- [alive](https://github.com/biruktk/alive) — real-time chat ([live demo](https://livechat.iambiruk.com))
-- [laragigs](https://github.com/biruktk/laragigs) — Laravel job board
-- [Tracker](https://github.com/biruktk/Tracker) — Next.js daily goals and calendar reports
-- [language-translation-api-with-golang](https://github.com/biruktk/language-translation-api-with-golang) — translation HTTP API in Go
-- [portfolio](https://github.com/biruktk/portfolio) — site source for iambiruk.com
+- [ethcal](https://github.com/biruktk/ethcal) — Gregorian and Ethiopian dates
+- [deslop](https://github.com/biruktk/deslop) — paste stiff prose, get a shorter draft, in the browser
+- [invoicelite-et](https://github.com/biruktk/invoicelite-et) — ETB invoice and proforma, print to PDF
+- [chapa-kit](https://github.com/biruktk/chapa-kit) — Laravel reference for Chapa checkout and webhooks
+- [applykit](https://github.com/biruktk/applykit) — job post plus a CV blurb, outreach draft out
+
+Older demos: [Gigavel](https://github.com/biruktk/Gigavel), [alive](https://github.com/biruktk/alive), [laragigs](https://github.com/biruktk/laragigs).
 
 ## Stack I use most
 
