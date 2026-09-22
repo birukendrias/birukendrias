@@ -6,7 +6,6 @@ Lead developer at [Meleket Technology](https://melekettech.com) since 2024. Befo
 
 I studied biotechnology for three years at AASTU (2019–2021), then moved fully into software through real projects rather than a CS degree.
 
-- Site: [iambiruk.com](https://iambiruk.com)
 - Email: [hello@iambiruk.com](mailto:hello@iambiruk.com)
 - Telegram: [@BirukEndrias](https://t.me/BirukEndrias)
 - Phone: +251 986 552 099

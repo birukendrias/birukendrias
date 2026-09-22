@@ -15,7 +15,6 @@ Right now I lead engineering at Meleket Technology on a national directory produ
 - Laragigs — Laravel job board
 - Tracker — Next.js goals and calendar reports
 
-Portfolio: https://iambiruk.com
 GitHub: https://github.com/biruktk
 Email: hello@iambiruk.com
 
@@ -31,7 +30,6 @@ About:
 I write production web and mobile software. Most of my recent work is Laravel backends, Flutter clients, Redis caching, and payment webhooks. I have been freelancing and shipping client systems since 2020, and I lead development at Meleket Technology.
 
 Public code and demos: https://github.com/biruktk
-Site: https://iambiruk.com
 
 ---
 
@@ -39,14 +37,13 @@ Site: https://iambiruk.com
 
 Shipping production Laravel + Flutter in Addis Ababa. Lead dev at Meleket. Public demos: Gigavel (PHP MVC), Alive chat, Laragigs, Tracker (Next.js).
 
-https://iambiruk.com
 https://github.com/biruktk
 
 ---
 
 ## Telegram / channel or status
 
-Biruk Endrias — full-stack (Laravel, Vue, Flutter). Portfolio https://iambiruk.com · GitHub https://github.com/biruktk · hello@iambiruk.com
+Biruk Endrias — full-stack (Laravel, Vue, Flutter). GitHub https://github.com/biruktk · hello@iambiruk.com
 
 ---
 
