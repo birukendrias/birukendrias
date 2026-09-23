@@ -8,9 +8,9 @@ I build products for real businesses and ship small tools when they are useful. 
 
 | Project | What it is |
 | --- | --- |
+| [redactkit](https://github.com/birukendrias/redactkit) | Redact PII and secrets before you paste into AI |
 | [deslop](https://github.com/birukendrias/deslop) | Strip AI tells from text in the browser |
 | [applykit](https://github.com/birukendrias/applykit) | Job post in, tailored outreach draft out |
-| [ethcal](https://github.com/birukendrias/ethcal) | Gregorian and Ethiopian date conversion |
 | [envscan](https://github.com/birukendrias/envscan) | Scan for secrets before you push |
 | [chapa-kit](https://github.com/birukendrias/chapa-kit) | Ethiopian payment checkout and webhooks |
 | [Gigavel](https://github.com/birukendrias/Gigavel) | Small PHP MVC starter |
