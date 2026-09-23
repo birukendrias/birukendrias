@@ -20,7 +20,6 @@ I build products for real businesses and ship small tools when they are useful. 
 | Project | Link |
 | --- | --- |
 | Meleket (founder) | [melekettech.com](https://melekettech.com) |
-| Cyaxiom | [cyaxiom.com](https://cyaxiom.com) |
 
 ## Contact
 
