@@ -2,7 +2,7 @@
 
 Developer, AI engineer, and founder at [Meleket](https://melekettech.com). Based in Addis Ababa.
 
-I build products for real businesses and ship small tools when they are useful. Open to remote work.
+I build products for real businesses and ship small tools when they are useful. Open to remote full-stack and AI engineering roles.
 
 ## Selected work
 
